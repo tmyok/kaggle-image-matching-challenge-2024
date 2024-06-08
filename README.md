@@ -7,6 +7,8 @@ Details of my solution can be found at the following link:
 
 [Solution Details](https://www.kaggle.com/competitions/image-matching-challenge-2024/discussion/510611)
 
+![solution](./img/solution.drawio.svg)
+
 # Usage
 
 ## Preparation
